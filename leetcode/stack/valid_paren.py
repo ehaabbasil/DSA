@@ -20,7 +20,7 @@ class Solution:
 
 				else: 
 					return False
-			else:
+			else: 
 				stack.append(c)
 
 		return True if not stack else False

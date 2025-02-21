@@ -1,0 +1,3 @@
+
+
+def simplyPath(path):
