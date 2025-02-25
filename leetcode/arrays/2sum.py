@@ -40,10 +40,12 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
             for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
+                if nums[i] + nums[j] == target and i!=j:
                     return [i, j]
 
+
     def twoSum2(self, nums: List[int], target: int) -> List[int]:
+
         pair_idx ={}
 
         for i, num in enumerate(nums):
@@ -52,10 +54,28 @@ class Solution:
             pair_idx[num] = i
 
 
+# Lets use a different  of empty map 
+    def twoSum3(self, nums: List[int], target: int) -> List[int]:
+
+        prevMap = {}
+
+        for i, n in enumerate(nums):
+            diff = target - nums[i]
+
+            if diff in prevMap:
+                return [i, prevMap[diff]]
+            prevMap[n] = i
+
+
+
+
+
+
 # Instantiate the Solution class and call the method
 solution = Solution()
 print(solution.twoSum([3,2,4], 6))
 print(solution.twoSum2([3,2,4], 6))
+print(solution.twoSum3([3,2,4], 6))
 
 
 # better than O(1) solution 

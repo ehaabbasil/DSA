@@ -1,6 +1,6 @@
 ALGORITHMS:
 (review all of these) 351 
-. Maximum Contiguous Array 
+. Maximum Contiguous Array . reviewed
 . Bubble Sort 
 . Insertion Sort 
 
@@ -12,15 +12,8 @@ Two pointer concept
 ->Left ->Right 
 
 
-
-
 . Best Time to Buy and Sell Stock
 . Best Time to Buy and Sell Stock II
-
-
-
-
-
 
 
 
@@ -44,8 +37,13 @@ LEETCODE QUESTIONS:
 . Remove Duplicates from Sorted Array
 . Remove Duplicates from Sorted Array II
 . Majority Element
+
 . Contains Duplicate
 . Valid Anagrams
+
+--------------------------------
+	Sliding Window: 
+--------------------------------
 . Best Time to Buy and Sell Stock *
 
 
@@ -54,14 +52,42 @@ LEETCODE QUESTIONS:
 --------------------------------
 	Stack: 
 --------------------------------
+. Remove outermost parentheses 
 . Valid Parentheses
+. Generate Parentheses 
 . Minimum Remove to Make Valid Parentheses. 
-. Next Greater Element I
-. Longest Valid Parentheses
+. Longest Valid Parentheses 
+
+. Implement Queue using stack
+. Implement Stack using Queue
+. Min Stack 
+
+. Evaluate Reverse Polish Notations 
+. Simply Path  
+
+. Next Greater Element I 
+. Final Prices with Special Discount 
+. Online Stock Span - monotonic stack 
+. Largest Rectangle Histogram
+. Daily Temperatures 
 
 
+. Sliding Window Maximum !
 
 
+code these in here by tonight including next greater element 1. 
+
+===  3 left to do  
+
+
+leetcode: practicing lc problems
+
+number system = 6
+arrays = 8 
+stack = 16
+
+
+total lc = 30 
 
 PEPCODING QUESTIONS:
 
@@ -94,8 +120,26 @@ PEPCODING QUESTIONS:
 . Duplicate Brackets 
 . Balanced Brackets 
 . Next Greater Element on the Right
-. Stock Span 
-	
+. Next Greater Element on Right alt
+. Stock Span  
+
+pep: understand concepts revise often
+
+foundation = 3 
+number system = 4 
+arrays = 3
+stack = 5
+
+total pep = 15
+
+
+total count =  14 + 19 = 38
+
+
+
+/Users/ehaabbasil/AIM/DSA
+
+
 
 
 
