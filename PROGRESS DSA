@@ -4,18 +4,6 @@ ALGORITHMS:
 . Bubble Sort 
 . Insertion Sort 
 
---------------------------------
-	Sliding Window: 
---------------------------------
-Two pointer concept 
-
-->Left ->Right 
-
-
-. Best Time to Buy and Sell Stock
-. Best Time to Buy and Sell Stock II
-
-
 
 LEETCODE QUESTIONS:
 
@@ -32,21 +20,32 @@ LEETCODE QUESTIONS:
 --------------------------------
 	Arrays and Hashing: 
 --------------------------------
-. Merge Sorted Array
-. Remove Element
-. Remove Duplicates from Sorted Array
-. Remove Duplicates from Sorted Array II
-. Majority Element
 
 . Contains Duplicate
-. Valid Anagrams
+. Is Anagram
+. Two Sum 
+. Two Sum 2                -> Two Pointers
+
+
+. Group Anagrams 
+. Top K Elements 
+. Encode and Decode Strings ! 
+. Product of Array Except itself ! 
+. Longest Consecutive Sequence ! 
+
+
+. Merge Sorted Array. *
+. Remove Element * 
+. Remove Duplicates from Sorted Array *
+. Remove Duplicates from Sorted Array II *
+. Majority Element *
+
+	Review and code again the ! = 3 
+
 
 --------------------------------
-	Sliding Window: 
+	Two Pointers: 
 --------------------------------
-. Best Time to Buy and Sell Stock *
-
-
 
 
 --------------------------------
@@ -70,21 +69,23 @@ LEETCODE QUESTIONS:
 . Online Stock Span - monotonic stack 
 . Largest Rectangle Histogram
 . Daily Temperatures 
+. Car Fleet
 
 
-. Sliding Window Maximum !
+. Sliding Window Maximum - using NGE 
 
 
-code these in here by tonight including next greater element 1. 
-
-===  3 left to do  
+--------------------------------
+	Sliding Window: 
+--------------------------------
+. Best Time to Buy and Sell Stock * 
 
 
 leetcode: practicing lc problems
 
 number system = 6
-arrays = 8 
-stack = 16
+arrays = 9
+stack = 17
 
 
 total lc = 30 
@@ -122,15 +123,24 @@ PEPCODING QUESTIONS:
 . Next Greater Element on the Right
 . Next Greater Element on Right alt
 . Stock Span  
+. Largest Area Histogram
+. Sliding Window Maximum
+. Infix Evaluations
+. Infix Conversions -> Pre and Post !
+. Prefix Evaluation and conversions ! 
+. Postfix Eval and conversions ! 
+. Celebrity Problem ! 
+. Merge Overlapping Intervals ? 
+. 
 
 pep: understand concepts revise often
 
 foundation = 3 
 number system = 4 
 arrays = 3
-stack = 5
+stack = 8
 
-total pep = 15
+total pep = 18
 
 
 total count =  14 + 19 = 38
