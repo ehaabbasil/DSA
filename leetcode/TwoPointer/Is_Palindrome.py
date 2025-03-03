@@ -10,7 +10,7 @@ class Solution(object):
             while r > l and not self.alphaNum(s[r]):
                 r-=1 
             if s[l].lower() != s[r].lower():
-                return 
+                return False
             l+=1 
             r-=1
         return True
