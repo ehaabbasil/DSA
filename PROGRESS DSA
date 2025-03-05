@@ -1,11 +1,16 @@
-ALGORITHMS:
+--------------------------------
+	Algorithms: 
+--------------------------------
 (review all of these) 351 
 . Maximum Contiguous Array . reviewed
 . Bubble Sort 
+. Selection Sort 
 . Insertion Sort 
 
 
 LEETCODE QUESTIONS:
+
+Total LC = 45
 
 --------------------------------
 	Number System: 
@@ -17,6 +22,9 @@ LEETCODE QUESTIONS:
 . Longest Common Prefix
 . Reverse Integer
 
+
+= 6 
+
 --------------------------------
 	Arrays and Hashing: 
 --------------------------------
@@ -24,14 +32,14 @@ LEETCODE QUESTIONS:
 . Contains Duplicate
 . Is Anagram
 . Two Sum 
-. Two Sum 2                -> Two Pointers
 
 
 . Group Anagrams 
 . Top K Elements 
-. Encode and Decode Strings ! 
-. Product of Array Except itself ! 
-. Longest Consecutive Sequence ! 
+. Encode and Decode Strings 
+. Product of Array Except itself  
+. Longest Consecutive Sequence 
+. Valid Sudoku 
 
 
 . Merge Sorted Array. *
@@ -40,14 +48,20 @@ LEETCODE QUESTIONS:
 . Remove Duplicates from Sorted Array II *
 . Majority Element *
 
-	Review and code again the ! = 3 
+
+= 14 
 
 
 --------------------------------
 	Two Pointers: 
 --------------------------------
+. Two Sum 2               
+. Is Palindrome  
+. 3 Sum 
+. Container With Most Water 
+. Trapping Rain Water 
 
-
+= 5 
 --------------------------------
 	Stack: 
 --------------------------------
@@ -74,23 +88,22 @@ LEETCODE QUESTIONS:
 
 . Sliding Window Maximum - using NGE 
 
-
+= 17 
 --------------------------------
 	Sliding Window: 
 --------------------------------
 . Best Time to Buy and Sell Stock * 
+. Longest Substring Without Repeating Characters
+. Longest Character Replacement 
+. Permutation in Strings
+
+= 4
 
 
-leetcode: practicing lc problems
-
-number system = 6
-arrays = 9
-stack = 17
-
-
-total lc = 30 
 
 PEPCODING QUESTIONS:
+
+Total PEP = 23 
 
 --------------------------------
 	Foundation: 
@@ -100,6 +113,8 @@ PEPCODING QUESTIONS:
 . Rotate a Number 
 . Reverse a Number 
 
+= 3 
+
 --------------------------------
 	Number Systems: 
 --------------------------------
@@ -108,12 +123,16 @@ PEPCODING QUESTIONS:
 . Any Base to Any Base
 . Any Base Addition / Subtraction
 
+= 4
+
 --------------------------------
 	Arrays: 
 --------------------------------
 . Span of Array 
 . Find Element in Array 
 . Sum of Two Arrays / Difference
+
+= 3 
 
 --------------------------------
 	Stack: 
@@ -131,21 +150,9 @@ PEPCODING QUESTIONS:
 . Postfix Eval and conversions ! 
 . Celebrity Problem ! 
 . Merge Overlapping Intervals ? 
-. 
-
-pep: understand concepts revise often
-
-foundation = 3 
-number system = 4 
-arrays = 3
-stack = 8
-
-total pep = 18
 
 
-total count =  14 + 19 = 38
-
-
+= 13
 
 /Users/ehaabbasil/AIM/DSA
 
