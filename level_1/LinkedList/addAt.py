@@ -49,9 +49,9 @@ class LinkedList:
         elif size == 0:
             addLast(val)
 
-        else:
+        else: 
             new_node = Node(val)
-            temp = self.addAtHead
+            temp = self.head
 
             for _ in range(index-1):
                 temp = temp.next
