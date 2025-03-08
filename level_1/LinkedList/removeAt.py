@@ -50,4 +50,17 @@ class LinkedList:
         elif index == 0:
             removeFirst()
 
-        elif 
+        elif index == self.size - 1:
+            removeLast()
+        else:
+            temp = self.head 
+
+            for _ in range(index - 1):
+                temp = temp.next
+            temp.next = temp.next.next 
+            size--=1 
+
+
+
+
+
