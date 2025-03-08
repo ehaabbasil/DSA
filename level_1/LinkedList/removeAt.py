@@ -1,6 +1,6 @@
-# Linked List 
+ # Linked List 
 
-# Remove Last 
+# Remove at 
 
 class Node:
     def __init__(self, data):
@@ -12,6 +12,18 @@ class LinkedList:
         self.head = None
         self.tail = None
         self.size = 0
+
+    def removeFirst(self):
+
+        if self.size == 0:
+            print("list is empty")
+
+        if self.size == 1:
+            self.head = self.tail = None
+
+        else:
+            self.head = self.head.next 
+            self.size-=1 
 
     def removeLast(self):
         if self.size == 0:
@@ -27,10 +39,15 @@ class LinkedList:
 
             self.tail = temp 
             temp.next = None 
-            size -= 1 
+            size-= 1 
 
 
+    def removeAt(self,index):
 
-            
+        if index < 0 or index>=self.size:
+            print("invalid arguments")
 
+        elif index == 0:
+            removeFirst()
 
+        elif 

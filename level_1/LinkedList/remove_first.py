@@ -12,7 +12,7 @@ class LinkedList:
         self.tail = None 
         self.size = 0
 
-    def removeFirst(self, val):
+    def removeFirst(self):
 
         if self.size == 0:
             print("list is empty")
@@ -22,7 +22,7 @@ class LinkedList:
 
         else:
             self.head = self.head.next 
-            self.sizei=1 
+            self.size-=1 
 
 
 
